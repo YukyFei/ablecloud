@@ -1,0 +1,7 @@
+{
+	"description": "This is such a great book!",
+	"structure": {
+		"summary": "README.md",
+		"readme": "sdkConfig.md"
+	}
+}
